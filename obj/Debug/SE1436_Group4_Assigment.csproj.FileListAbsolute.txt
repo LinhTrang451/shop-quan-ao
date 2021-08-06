@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\SE1436_Group4_Assigment\SE1436_Group4_Assigment\bin\SE1436_Group4_Assigment.dll.config
+C:\Users\Administrator\source\repos\SE1436_Group4_Assigment\SE1436_Group4_Assigment\bin\SE1436_Group4_Assigment.dll
+C:\Users\Administrator\source\repos\SE1436_Group4_Assigment\SE1436_Group4_Assigment\bin\SE1436_Group4_Assigment.pdb
+C:\Users\Administrator\source\repos\SE1436_Group4_Assigment\SE1436_Group4_Assigment\obj\Debug\SE1436_Group4_Assigment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SE1436_Group4_Assigment\SE1436_Group4_Assigment\obj\Debug\SE1436_Group4_Assigment.dll
+C:\Users\Administrator\source\repos\SE1436_Group4_Assigment\SE1436_Group4_Assigment\obj\Debug\SE1436_Group4_Assigment.pdb
+C:\Users\Administrator\source\repos\SE1436_Group4_Assigment\SE1436_Group4_Assigment\obj\Debug\SE1436_Group4_Assigment.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\SE1436_Group4_Assigment\SE1436_Group4_Assigment\bin\SE1436_Group4_Assigment.dll.config
+C:\Users\hp\Downloads\SE1436_Group4_Assigment\SE1436_Group4_Assigment\bin\SE1436_Group4_Assigment.dll
+C:\Users\hp\Downloads\SE1436_Group4_Assigment\SE1436_Group4_Assigment\bin\SE1436_Group4_Assigment.pdb
+C:\Users\hp\Downloads\SE1436_Group4_Assigment\SE1436_Group4_Assigment\obj\Debug\SE1436_Group4_Assigment.csprojAssemblyReference.cache
+C:\Users\hp\Downloads\SE1436_Group4_Assigment\SE1436_Group4_Assigment\obj\Debug\SE1436_Group4_Assigment.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\SE1436_Group4_Assigment\SE1436_Group4_Assigment\obj\Debug\SE1436_Group4_Assigment.dll
+C:\Users\hp\Downloads\SE1436_Group4_Assigment\SE1436_Group4_Assigment\obj\Debug\SE1436_Group4_Assigment.pdb
