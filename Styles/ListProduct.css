@@ -1,0 +1,22 @@
+﻿.linkHref {
+    font-size: 17px;
+}
+
+
+.linkHref:link{
+    text-align:center;
+    margin-left:5px;
+}
+.responsTable{
+    margin: 1em 0;
+    width: 100%;
+    overflow:hidden;
+    background: #FFF;
+}
+.image{
+    text-align:center;
+}
+td{
+    text-align: center;
+    font-size: 14px;
+}
